@@ -116,7 +116,7 @@ The [visualizations](visualizations/) directory contains key charts and graphs f
 **Shohinur Pervez Shohan**  
 Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shohanrony/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/shohanrony/](https://www.linkedin.com/in/shohan414/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShohanRony)
 
 ## 📄 License
