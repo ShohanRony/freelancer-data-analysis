@@ -28,14 +28,18 @@ The dataset contains detailed information about freelancers including:
 ```
 ├── exploratory-data-analysis-eda-freelancer-succe.ipynb  # Main EDA notebook
 ├── freelancer_earnings_bd.csv                            # Dataset
+├── key_findings.md                                       # Summary of key insights
+├── requirements.txt                                      # Project dependencies
 └── README.md                                             # Project documentation
 ```
 
 ## Key Insights
-- Identification of most profitable job categories and platforms
+See the [key_findings.md](key_findings.md) document for a detailed summary of the analysis results, including:
+- Most profitable job categories and platforms
 - Optimal pricing strategies by experience level
 - Marketing spend effectiveness analysis
 - Client region impact on earnings and success rates
+- Recommendations for freelancers
 
 ## Tools & Technologies
 - Python 3.x
@@ -52,8 +56,9 @@ The dataset contains detailed information about freelancers including:
 
 ## How to Use This Repository
 1. Clone the repository
-2. Open and explore the Jupyter notebook
-3. Review visualizations and analysis for key insights
+2. Install required dependencies: `pip install -r requirements.txt`
+3. Open and explore the Jupyter notebook
+4. Review the key findings document for insights
 
 ## Author
 Shohinur Pervez Shohan  
